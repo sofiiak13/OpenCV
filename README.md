@@ -11,7 +11,7 @@ pip3 install mediapipe
 
 pip3 install tensorflow
 
-Hardware that can be was tested with this project: MacOS, MS Windows
+Hardware that was tested with this project: MacOS, MS Windows
 
 There are two ways you could use this program:
 
