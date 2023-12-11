@@ -1,5 +1,5 @@
 # OpenCVGestureRecognition
-Gesture recognition program that takes a picture with a webacam when it detects a V/peace sign!
+Gesture recognition program that takes a picture with a webcam when it detects a V/peace sign!
 
 Before running the program make sure you have the following packages installed: 
 
